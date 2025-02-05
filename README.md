@@ -8,6 +8,10 @@ Desde el 2025 quiero compartir con ustedes proyectos en estas ramas con el fin d
 Pueden contactarse conmigo por medio de mis redes sociales:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Gomez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daniel-fernando-gómez-acevedo-1310go)
+
+[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://dangomezac1310.com/discord)
+
+
 <!--
 **DANIELGOMEZACEVEDO/DANIELGOMEZACEVEDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
