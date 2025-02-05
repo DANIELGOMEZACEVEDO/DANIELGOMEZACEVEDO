@@ -9,7 +9,7 @@ Pueden contactarse conmigo por medio de mis redes sociales:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Gomez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daniel-fernando-gómez-acevedo-1310go)
 
-[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://dangomezac1310/discord)
+[![Discord](https://img.shields.io/badge/Discord-Daniel_Gomez-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://@dangomezac1310/discord)
 
 
 <!--
