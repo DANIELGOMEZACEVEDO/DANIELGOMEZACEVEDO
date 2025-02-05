@@ -11,7 +11,7 @@ Pueden contactarse conmigo por medio de mis redes sociales:
 
 [![Gmail](https://img.shields.io/badge/Gmail-Daniel_Gomez-E4405F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqSvjSxrtQWmNDwvRBHwWCRdjLXVQzjDfRxDdRdRNKwfWBZqGCKHLSZqVSRzQrdfMBhkGq)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Daniel_Gomez-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://www.instagram.com/delanochealdia/)
+[![Instagram](https://img.shields.io/badge/Instagram-Daniel_Gomez-5865F2?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/delanochealdia/)
 
 
 <!--
